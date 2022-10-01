@@ -52,10 +52,12 @@
 
 .side_menu {
     flex-grow: 1;
+    height: 100%;
 }
 
 #map {
     flex-grow: 10;
+    height: 100%;
 }
 
 .nav_list_side {
