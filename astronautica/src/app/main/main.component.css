@@ -1,3 +1,24 @@
-.navigation {
-    
+#nav_main {
+    width: 100%;
+    height: auto;
+    background-color: white;
+}
+
+#nav_list {
+    width: 100%;
+    height: auto;
+    list-style-type: none;
+    display: inline-flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.nav_item {
+    align-self: center;
+    justify-content: space-evenly;
+}
+
+.nav_item_icon {
+    font-size: 16px;
 }
